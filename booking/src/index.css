@@ -1,0 +1,16 @@
+body{
+  background-image: url("./assets/федерация3к.jpg") ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: white;
+}
+.container{
+  text-align: center;
+}
+.box-form > *{
+  margin-bottom: 20px;
+}
